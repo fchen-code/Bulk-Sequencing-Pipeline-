@@ -1,5 +1,3 @@
 ﻿Source,ID,Name,Test,R1,R2,Strandedness
-sra,SRR12926698,yeast,ATAC,,,unstranded
-sra,SRR12926683,yeast,RNA,,,unstranded
-sra,SRR1042772,yeast,ChIP,,,unstranded
-sra,SRR1042784,yeast,ChIP_INPUT,,,unstranded
+,,,,,,
+
