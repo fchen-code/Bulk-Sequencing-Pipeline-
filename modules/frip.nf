@@ -1,6 +1,6 @@
 process frip {
 
-	conda 'bioconda::samtools=1.21 bioconda::bedtools=2.31.1'
+	container "quay.io/biocontainers/mulled-v2-3ffca7af725971ca3232b6e98526cfb5ed81828c:76f24b7c13470ff9abbe70f3dcfabf8961dd2a60-0"
 	
 	publishDir "../results/${meta.test}/${meta.name}/${meta.id}/qc/", mode: "copy"
 
